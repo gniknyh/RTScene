@@ -9,3 +9,6 @@ A showcase of my raytracer.
 
 ### Environmental lighting
 ![IBL](img/IBL/ajax-rough-dieletric-IBL.png)
+
+### Disney principled BSDF
+![disney](img/disney/disney.png)
